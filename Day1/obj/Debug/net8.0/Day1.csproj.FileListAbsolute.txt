@@ -1,0 +1,15 @@
+Z:\projects\adventofcode2024 using C#\Day1\bin\Debug\net8.0\Day1.exe
+Z:\projects\adventofcode2024 using C#\Day1\bin\Debug\net8.0\Day1.deps.json
+Z:\projects\adventofcode2024 using C#\Day1\bin\Debug\net8.0\Day1.runtimeconfig.json
+Z:\projects\adventofcode2024 using C#\Day1\bin\Debug\net8.0\Day1.dll
+Z:\projects\adventofcode2024 using C#\Day1\bin\Debug\net8.0\Day1.pdb
+Z:\projects\adventofcode2024 using C#\Day1\obj\Debug\net8.0\Day1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\projects\adventofcode2024 using C#\Day1\obj\Debug\net8.0\Day1.AssemblyInfoInputs.cache
+Z:\projects\adventofcode2024 using C#\Day1\obj\Debug\net8.0\Day1.AssemblyInfo.cs
+Z:\projects\adventofcode2024 using C#\Day1\obj\Debug\net8.0\Day1.csproj.CoreCompileInputs.cache
+Z:\projects\adventofcode2024 using C#\Day1\obj\Debug\net8.0\Day1.dll
+Z:\projects\adventofcode2024 using C#\Day1\obj\Debug\net8.0\refint\Day1.dll
+Z:\projects\adventofcode2024 using C#\Day1\obj\Debug\net8.0\Day1.pdb
+Z:\projects\adventofcode2024 using C#\Day1\obj\Debug\net8.0\Day1.genruntimeconfig.cache
+Z:\projects\adventofcode2024 using C#\Day1\obj\Debug\net8.0\ref\Day1.dll
+Z:\projects\adventofcode2024 using C#\Day1\bin\Debug\net8.0\input.txt

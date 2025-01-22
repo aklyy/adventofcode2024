@@ -1,0 +1,14 @@
+Z:\projects\adventofcode2024 using C#\Day2\bin\Debug\net9.0\Day2.exe
+Z:\projects\adventofcode2024 using C#\Day2\bin\Debug\net9.0\Day2.deps.json
+Z:\projects\adventofcode2024 using C#\Day2\bin\Debug\net9.0\Day2.runtimeconfig.json
+Z:\projects\adventofcode2024 using C#\Day2\bin\Debug\net9.0\Day2.dll
+Z:\projects\adventofcode2024 using C#\Day2\bin\Debug\net9.0\Day2.pdb
+Z:\projects\adventofcode2024 using C#\Day2\obj\Debug\net9.0\Day2.GeneratedMSBuildEditorConfig.editorconfig
+Z:\projects\adventofcode2024 using C#\Day2\obj\Debug\net9.0\Day2.AssemblyInfoInputs.cache
+Z:\projects\adventofcode2024 using C#\Day2\obj\Debug\net9.0\Day2.AssemblyInfo.cs
+Z:\projects\adventofcode2024 using C#\Day2\obj\Debug\net9.0\Day2.csproj.CoreCompileInputs.cache
+Z:\projects\adventofcode2024 using C#\Day2\obj\Debug\net9.0\Day2.dll
+Z:\projects\adventofcode2024 using C#\Day2\obj\Debug\net9.0\refint\Day2.dll
+Z:\projects\adventofcode2024 using C#\Day2\obj\Debug\net9.0\Day2.pdb
+Z:\projects\adventofcode2024 using C#\Day2\obj\Debug\net9.0\Day2.genruntimeconfig.cache
+Z:\projects\adventofcode2024 using C#\Day2\obj\Debug\net9.0\ref\Day2.dll
