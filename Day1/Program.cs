@@ -1,6 +1,4 @@
-﻿
-
-string[] input = File.ReadAllLines(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "input.txt"));
+﻿string[] input = File.ReadAllLines(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "input.txt"));
 
 List<Int32> firstList = new List<Int32>();
 List<Int32> secondList = new List<Int32>();
@@ -23,10 +21,10 @@ for (int i = 0; i < firstList.Count; i++)
 
 Console.WriteLine("Part 1: " + totalDistance);
 
-int simillarityScore = firstList
+int similarityScore = firstList
     .Sum(first => first * secondList.Count(second => second == first));
 
-Console.WriteLine("Part 2: " + simillarityScore);
+Console.WriteLine("Part 2: " + similarityScore);
 
 
 
