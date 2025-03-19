@@ -32,9 +32,7 @@ int result = input.Count(line =>
     return false;
 });
 
-
 Console.WriteLine(result);
-
 
 result = input.Count(line =>
 {
